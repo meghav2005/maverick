@@ -1,5 +1,7 @@
- Customizing an AI kitchen means setting up appliances and devices in a way that they work together smartly. It involves programming them to automate tasks like cooking, ordering groceries, and managing recipes, making your kitchen more efficient and convenient.
- Here in this particular project, we accept the name of various dishes as input which the user wants to cook.And as output the ingredients required for the above dish and the instructions required to prepare the dish would be generated, which is the required output.
+ Customizing an AI kitchen means setting up appliances and devices in a way that they work together smartly.
+ It involves programming them to automate tasks like cooking, ordering groceries, and managing recipes, making your kitchen more efficient and convenient.
+ Here in this particular project, we accept the name of various dishes as input which the user wants to cook.
+ And as output the ingredients required for the above dish and the instructions required to prepare the dish would be generated, which is the required output.
  The goal is to create a kitchen environment that responds to your needs seamlessly, making cooking and managing food-related tasks easier and more enjoyable.
  We have prepared  a menu which included different categories of dishes like soup varities, bread varities, noodles varities,meat varities ,etc.
  The user could opt the desired choice and after the processing of data ,the ingredients and the steps for making the same would be generated as the output.

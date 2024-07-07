@@ -1,3 +1,5 @@
+pip install simple_colors
+
 def mushroom_soup(n):
     print("\n")
     print("INGREDIENTS")
